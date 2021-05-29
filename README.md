@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EsraaNasr92
-- 👀 I’m interested in web technologies.
+- 👀 I’m interested in web technologies
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate with a web agency to implement technologies that I know and learn new.
+- 💞️ I’m looking to collaborate on web projects with creative people to emplement what I learned and learn new things
 - 📫 How to reach me send email: me@esraa.io
 
 <!---
